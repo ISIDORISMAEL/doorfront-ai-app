@@ -21,8 +21,7 @@ export default function Home() {
       <Header />
       <Content />
       <MapboxMap />
-      { //<WinnerSection />
-}
+      <WinnerSection />
       <Footer />
     </div>
   );
